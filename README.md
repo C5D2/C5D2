@@ -1,4 +1,4 @@
-    <div align= "center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d780ff,100:8c8aff&height=120&text=Hello!%20%20I'm%20NARA.&animation=&fontColor=fffafa&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
@@ -22,5 +22,4 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@c5d2> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@c5d2"> </a>
           </div>  <br> 
-
     
